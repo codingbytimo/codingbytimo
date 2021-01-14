@@ -1,6 +1,6 @@
 ### Hi, I'm Timo 🤙
 
-I'm a 16 year old dude, who started programming in the beginning of 2020.
+I'm a 17 year old dude, who started programming in the beginning of 2020.
 
 I go to school at: [Hohentwiel-Gewerbeschule-Singen](https://hgs-singen.de)
 
