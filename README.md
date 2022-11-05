@@ -2,8 +2,6 @@
 
 **`School Student/Freetime Developer`**
 
-<img align="right" width="100" height="100" src="https://github.com/codingbytimo/../../../assets/gameboy.png">
-
 I'm an 18 year old dude from germany, who started programming in the beginning of 2020. I'm mainly interested in low level programming and how computers operate on a deeper level, but I also like to educate myself in other topics which are not directly connected to the low level stuff. 
 Below are some languages and tools I am either using or currently learning.
 
