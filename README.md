@@ -2,7 +2,7 @@
 
 **`School Student/Freetime Developer`**
 
-I'm an 18 year old dude from germany, who started programming in the beginning of 2020. I'm mainly interested in low level programming and how computers operate on a deeper level, but I also like to educate myself in other topics which are not directly connected to the low level stuff. 
+I'm a 19 year old dude from germany, who started programming in the beginning of 2020. I'm mainly interested in low level programming and how computers operate on a deeper level, but I also like to educate myself in other topics which are not directly connected to the low level stuff. 
 Below are some languages and tools I am either using or currently learning.
 
 ### 🧰 Languages and Tools
