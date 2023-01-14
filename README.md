@@ -16,10 +16,3 @@ Below are some languages and tools I am either using or currently learning.
 <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<br />
-
-#
-
-### 📊 Stats
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codingbytimo&show_icons=true&theme=synthwave&title_color=fca311&text_color=ffffff&icon_color=fca311&line_height=33px&bg_color=363636)
